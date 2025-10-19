@@ -1,6 +1,4 @@
+
 {
-    "allowed": true,
-    "reason": "Active license",
-    "expires": "2025-12-31",
-    "lastCheck": "2025-10-19"
+  "allowed": false
 }
